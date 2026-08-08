@@ -1,0 +1,3 @@
+{
+  coreutilsBin = import ./coreutils.nix;
+}
