@@ -1,3 +1,3 @@
 {
-  coreutilsBin = import ./coreutils.nix;
+  binExtract = import ./binExtract.nix;
 }
